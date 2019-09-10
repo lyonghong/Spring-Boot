@@ -19,7 +19,7 @@
 #### 四、使用IDEA 初始化一个Spring Boot项目
 
 
-![项目初始化](https://github.com/lyonghong/Spring-Boot/edit/masterimage\初始化项目.jpg)
+![项目初始化](https://github.com/lyonghong/Spring-Boot/blob/master/image/%E5%88%9D%E5%A7%8B%E5%8C%96%E9%A1%B9%E7%9B%AE.jpg)
 =======
 
 #### 五、在pom.xml中添加依赖
