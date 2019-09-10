@@ -195,7 +195,7 @@ public class Generator {
 
 > 通过Generator 生成的文件如图：
 
-![插件效果](H:\photo\自动生成插件.png)
+
 
 
 
